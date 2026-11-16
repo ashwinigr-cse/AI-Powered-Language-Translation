@@ -1,0 +1,10 @@
+{
+  "name": "LinguaAI – Intelligent Language Translator",
+  "description": "AI-powered multilingual text and speech translation platform with automatic language detection, browser speech recognition, text-to-speech playback, and persistent translation history.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

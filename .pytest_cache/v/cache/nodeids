@@ -1,0 +1,7 @@
+[
+  "backend/tests/test_api.py::test_health_and_languages",
+  "backend/tests/test_api.py::test_preferences_crud",
+  "backend/tests/test_api.py::test_provider_errors_are_surfaced_without_mock_fallback",
+  "backend/tests/test_api.py::test_translate_validation_and_history_persistence",
+  "backend/tests/test_api.py::test_tts_endpoint"
+]
